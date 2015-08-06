@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\TangoExamples\ExperimentalMeshBuilder\Scripts\DynamicMeshCube.cs">
+    <Files>
+      <File FileName="Assets\TangoExamples\ExperimentalMeshBuilder\Scripts\DynamicMeshCube.cs" Line="1080" Column="1" />
+      <File FileName="Assets\TangoExamples\ExperimentalMeshBuilder\Scripts\BallThrower.cs" Line="1" Column="1" />
+      <File FileName="Assets\TangoExamples\ExperimentalMeshBuilder\Scripts\DynamicMeshManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TangoExamples\ExperimentalVirtualReality\Scripts\StereoCameraManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\TangoExamples\ExperimentalVirtualReality\Scripts\CustomTangoController.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\tango-examples-unityar1\tango-examples-unity-master\UnityExamples\Assets\trigger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
